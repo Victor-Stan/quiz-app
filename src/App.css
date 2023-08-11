@@ -1,0 +1,55 @@
+.App{
+    text-align: center;
+}
+
+.question-card{
+    margin: 0 auto;
+    background-color: purple;
+    padding: 16px;
+    border-radius: 360px;
+    color: white;
+    width: 80%;
+    height: auto;
+}
+
+ul{ 
+    list-style: none;
+    margin-right:50px ;
+}
+
+li{
+    background-color: darkgray;
+    font-weight: bold;
+    padding: 5px;
+    border: 3px solid white;
+    border-radius: 20px;
+    font-size: 20px;
+    margin-top: 8px;
+}
+
+.question-text{
+    color: darksalmon;
+    font-size: 19px;
+}
+
+.final-results{
+    margin: 0 auto;
+    background-color: purple;
+    padding: 16px;
+    border-radius: 360px;
+    color: white;
+    width: 50%;
+    height: auto;
+}
+
+button{
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 16px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 24px;
+}
